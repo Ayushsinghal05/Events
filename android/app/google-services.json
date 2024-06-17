@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1034501321129",
+    "firebase_url": "https://loginprojectayush-default-rtdb.firebaseio.com",
+    "project_id": "loginprojectayush",
+    "storage_bucket": "loginprojectayush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034501321129:android:2cdd408944bb8e58c794b8",
+        "android_client_info": {
+          "package_name": "com.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034501321129-jiqtrvfuk9a1b9r7lp2d0kl8di8rl39a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.login",
+            "certificate_hash": "b93bd20c131c6d99a95a32a65649a5dd197a73d1"
+          }
+        },
+        {
+          "client_id": "1034501321129-sidtrs4hk3a21lru2pdfal377f9i12ha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.login",
+            "certificate_hash": "e11d9ed01b23600b85ebbe048bc30836600d1b45"
+          }
+        },
+        {
+          "client_id": "1034501321129-jodmq0s1l64hap0n12jg3l2mf5kh46l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzrbfm_9-yjCEhi7TRmAVhDdTQa7SuqR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034501321129-jodmq0s1l64hap0n12jg3l2mf5kh46l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
